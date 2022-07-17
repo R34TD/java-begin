@@ -1,3 +1,3 @@
 # java-begin
 
-Source : https://www.youtube.com/c/ProgrammerZamanNow
+I learn from: https://www.youtube.com/c/ProgrammerZamanNow
